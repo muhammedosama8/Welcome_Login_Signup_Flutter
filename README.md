@@ -1,6 +1,6 @@
 # Welcome page, Login Page and Sign up page - Flutter UI
 
-A new Flutter application.
+A new Flutter application. Design By : Muhammed Osama
 
 ## Getting Started
 
